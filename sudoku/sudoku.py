@@ -79,7 +79,7 @@ def random_board():
     else:
         random_col = list(range(1, 10))
         random.shuffle(random_col)
-        col_index = random.randint(0, 9)
+        col_index = random.randint(0, 8)
         for row, ele in zip(board, random_col):
             row[col_index] = ele
 
