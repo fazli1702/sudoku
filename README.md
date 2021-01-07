@@ -18,7 +18,7 @@ The GUI will appear as shown
 
 # Game
 
-To see the backtracking visualisation, press the `space bar`
+To see the backtracking visualisation, press the `space bar`  
 ![visualisation](sudoku/solve.png)
 
 To play normally,
