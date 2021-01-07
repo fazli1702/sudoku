@@ -12,7 +12,7 @@ Once the library is installed, run the main.py file
 ```
 $ python main.py
 ```
-The GUI will appear as shown
+The GUI will appear as shown  
 ![window](sudoku/window.png)
 
 
